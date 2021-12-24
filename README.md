@@ -37,6 +37,16 @@ Receive news from 4 different sites (and send the news via email)
 ![image](https://user-images.githubusercontent.com/72446237/147350394-9594232a-535b-4a6d-ad89-4eee53aa7ef5.png)
 
 # Work strategy:
+* Defining Super Class: (news)
+* Defining Sub Class (each news site have separate class ) because there is a need for different work in gathering information from site to site.
+* At the end of the information processing, all the inheriting classes use the same methods, which are defined in the parent class.
+* In the main file, the entire program is run and managed.
+
+# Modules:
+* BeautifulSoup
+* csv
+* smtplib
+* email
 
 
 
