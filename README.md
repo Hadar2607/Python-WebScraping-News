@@ -12,6 +12,7 @@ Receive news from 4 different sites (and send the news via email)
 ![image](https://user-images.githubusercontent.com/72446237/147348587-e86cc1f0-5bb1-4cd1-b6ef-84192422be52.png)
 
 ## You can see that the file has the same titles as the news site
+![image](https://user-images.githubusercontent.com/72446237/147349953-ad73c408-2f1b-4943-bd2a-1a1233a288b0.png)
 
 
 ## Another site:
