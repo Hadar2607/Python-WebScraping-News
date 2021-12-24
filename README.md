@@ -7,7 +7,7 @@ Receive news from 4 different sites (and send the news via email)
 
 ### Demonstration:
 
-#### news from site 
+#### news from site (x)
 
 ![image](https://user-images.githubusercontent.com/72446237/147348587-e86cc1f0-5bb1-4cd1-b6ef-84192422be52.png)
 
@@ -16,11 +16,11 @@ Receive news from 4 different sites (and send the news via email)
 ![image](https://user-images.githubusercontent.com/72446237/147349953-ad73c408-2f1b-4943-bd2a-1a1233a288b0.png)
 
 
-#### Another site:
+#### Another site (y):
 
 ![image](https://user-images.githubusercontent.com/72446237/147349484-b455f636-013f-4adc-be38-7449182a3e9a.png)
 
-#### Same result
+#### Same result:
 
 ![image](https://user-images.githubusercontent.com/72446237/147349297-0c959796-8fac-4f90-8cc8-53264f9a8274.png)
 
