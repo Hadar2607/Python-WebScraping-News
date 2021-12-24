@@ -15,9 +15,8 @@ Receive news from 4 different sites (and send the news via email)
 
 
 ## Another site:
-![image](https://user-images.githubusercontent.com/72446237/147349434-84eb64e6-dab7-4db8-86ed-b121c08082f1.png)
+![image](https://user-images.githubusercontent.com/72446237/147349484-b455f636-013f-4adc-be38-7449182a3e9a.png)
 
 ## Same result
 ![image](https://user-images.githubusercontent.com/72446237/147349297-0c959796-8fac-4f90-8cc8-53264f9a8274.png)
 
-![image](https://user-images.githubusercontent.com/72446237/147349484-b455f636-013f-4adc-be38-7449182a3e9a.png)
