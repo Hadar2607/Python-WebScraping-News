@@ -19,4 +19,5 @@ Receive news from 4 different sites (and send the news via email)
 
 ![image](https://user-images.githubusercontent.com/72446237/147349297-0c959796-8fac-4f90-8cc8-53264f9a8274.png)
 
-![image](https://user-images.githubusercontent.com/72446237/147349330-0b8f9816-b572-43a6-80fe-4c1a778e8f55.png)
+
+![image](https://user-images.githubusercontent.com/72446237/147349484-b455f636-013f-4adc-be38-7449182a3e9a.png)
