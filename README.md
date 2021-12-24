@@ -13,6 +13,7 @@ Receive news from 4 different sites (and send the news via email)
 ![image](https://user-images.githubusercontent.com/72446237/147348587-e86cc1f0-5bb1-4cd1-b6ef-84192422be52.png)
 
 
+
 ![image](https://user-images.githubusercontent.com/72446237/147348636-3349d2ea-5a29-435c-9b80-dab3f3616a8d.png)
 
 
