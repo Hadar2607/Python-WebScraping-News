@@ -21,3 +21,12 @@ Receive news from 4 different sites (and send the news via email)
 ## Same result
 ![image](https://user-images.githubusercontent.com/72446237/147349297-0c959796-8fac-4f90-8cc8-53264f9a8274.png)
 
+
+## The file is in a remote configuration (what is painted in black is the site name)
+![image](https://user-images.githubusercontent.com/72446237/147350042-8c7eb47d-c797-49e3-90d5-0f904c68d53d.png)
+
+## Every new day a new file is added to the folder
+![image](https://user-images.githubusercontent.com/72446237/147350123-1ace48d7-272a-476e-9271-6f83f1b352d0.png)
+
+## After the file is saved in a folder on the computer,the news file send to the defined emails.
+![image](https://user-images.githubusercontent.com/72446237/147350394-9594232a-535b-4a6d-ad89-4eee53aa7ef5.png)
